@@ -1,1 +1,1 @@
-# SQL-Consumer-Goods-Ad-hoc-Insights-
+# SQL-Consumer-Goods-Ad-hoc-Insights
